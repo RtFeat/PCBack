@@ -1,0 +1,100 @@
+Error in feedback creation from IP 127.0.0.1: Метод "GET" не разрешен.
+Error in feedback creation from IP 127.0.0.1: Метод "GET" не разрешен.
+Error in feedback creation from IP 127.0.0.1: Метод "GET" не разрешен.
+Feedback creation attempt from IP: 127.0.0.1, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+Invalid feedback data from IP 127.0.0.1: {'theme': [ErrorDetail(string='Убедитесь, что это значение содержит не менее 5 символов.', code='min_length')]}
+Error in feedback creation from IP 127.0.0.1: Метод "GET" не разрешен.
+Error in feedback creation from IP 127.0.0.1: Метод "GET" не разрешен.
+Feedback creation attempt from IP: 127.0.0.1, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+Invalid feedback data from IP 127.0.0.1: {'theme': [ErrorDetail(string='Убедитесь, что это значение содержит не менее 5 символов.', code='min_length')]}
+Feedback creation attempt from IP: 127.0.0.1, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+Invalid feedback data from IP 127.0.0.1: {'theme': [ErrorDetail(string='Убедитесь, что это значение содержит не менее 5 символов.', code='min_length')]}
+Feedback creation attempt from IP: 127.0.0.1, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+Invalid feedback data from IP 127.0.0.1: {'theme': [ErrorDetail(string='Это поле не может быть пустым.', code='blank')], 'email': [ErrorDetail(string='Это поле не может быть пустым.', code='blank')], 'name_person': [ErrorDetail(string='Это поле не может быть пустым.', code='blank')], 'message': [ErrorDetail(string='Это поле не может быть пустым.', code='blank')]}
+Feedback creation attempt from IP: 127.0.0.1, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+Invalid feedback data from IP 127.0.0.1: {'theme': [ErrorDetail(string='Это поле не может быть пустым.', code='blank')], 'email': [ErrorDetail(string='Это поле не может быть пустым.', code='blank')], 'name_person': [ErrorDetail(string='Это поле не может быть пустым.', code='blank')], 'message': [ErrorDetail(string='Это поле не может быть пустым.', code='blank')]}
+Error in feedback creation from IP 127.0.0.1: Метод "GET" не разрешен.
+Feedback creation attempt from IP: 127.0.0.1, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+Feedback created successfully: ID 1, IP: 127.0.0.1
+Error in feedback creation from IP 127.0.0.1: Метод "GET" не разрешен.
+Feedback creation attempt from IP: 127.0.0.1, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+Invalid feedback data from IP 127.0.0.1: {'message': [ErrorDetail(string='Сообщение должно содержать минимум 10 символов', code='min_length')]}
+Feedback creation attempt from IP: 127.0.0.1, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+Feedback created successfully: ID 2, IP: 127.0.0.1
+Error in feedback creation from IP 127.0.0.1: Метод "GET" не разрешен.
+Error in feedback creation from IP 127.0.0.1: Метод "GET" не разрешен.
+Feedback creation attempt from IP: 127.0.0.1, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+Invalid feedback data from IP 127.0.0.1: {'non_field_errors': [ErrorDetail(string='Вы уже отправляли похожее сообщение в течение последнего часа', code='invalid')]}
+Feedback creation attempt from IP: 127.0.0.1, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+Invalid feedback data from IP 127.0.0.1: {'non_field_errors': [ErrorDetail(string='Вы уже отправляли похожее сообщение в течение последнего часа', code='invalid')]}
+Feedback creation attempt from IP: 127.0.0.1, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+Feedback created successfully: ID 3, IP: 127.0.0.1
+Error in feedback creation from IP 127.0.0.1: Метод "GET" не разрешен.
+Error in feedback creation from IP 127.0.0.1: Метод "GET" не разрешен.
+Feedback creation attempt from IP: 127.0.0.1, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+Feedback created successfully: ID 4, IP: 127.0.0.1
+Feedback creation attempt from IP: 127.0.0.1, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+Feedback created successfully: ID 5, IP: 127.0.0.1
+Feedback creation attempt from IP: 127.0.0.1, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+Invalid feedback data from IP 127.0.0.1: {'non_field_errors': [ErrorDetail(string='Вы уже отправляли похожее сообщение в течение последнего часа', code='invalid')]}
+Feedback creation attempt from IP: 127.0.0.1, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+Invalid feedback data from IP 127.0.0.1: {'non_field_errors': [ErrorDetail(string='Вы уже отправляли похожее сообщение в течение последнего часа', code='invalid')]}
+Feedback creation attempt from IP: 127.0.0.1, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+Invalid feedback data from IP 127.0.0.1: {'non_field_errors': [ErrorDetail(string='Вы уже отправляли похожее сообщение в течение последнего часа', code='invalid')]}
+Feedback creation attempt from IP: 127.0.0.1, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+Feedback created successfully: ID 6, IP: 127.0.0.1
+Error in feedback creation from IP 127.0.0.1: Запрос был проигнорирован. Expected available in 3074 seconds.
+Error in feedback creation from IP 127.0.0.1: Запрос был проигнорирован. Expected available in 2957 seconds.
+Error in feedback creation from IP 127.0.0.1: Запрос был проигнорирован. Expected available in 2872 seconds.
+Error in feedback creation from IP 127.0.0.1: Запрос был проигнорирован. Expected available in 2731 seconds.
+Error in feedback creation from IP 127.0.0.1: Запрос был проигнорирован. Expected available in 2561 seconds.
+Feedback creation attempt from IP: 127.0.0.1, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+Feedback created successfully: ID 7, IP: 127.0.0.1
+Feedback creation attempt from IP: 127.0.0.1, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+Feedback created successfully: ID 8, IP: 127.0.0.1
+Feedback creation attempt from IP: 127.0.0.1, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+Invalid feedback data from IP 127.0.0.1: {'actor': [ErrorDetail(string='Значения unspecified нет среди допустимых вариантов.', code='invalid_choice')]}
+Feedback creation attempt from IP: 127.0.0.1, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+Feedback created successfully: ID 9, IP: 127.0.0.1
+Feedback creation attempt from IP: 127.0.0.1, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+Invalid feedback data from IP 127.0.0.1: {'actor': [ErrorDetail(string='Значения unspecified нет среди допустимых вариантов.', code='invalid_choice')]}
+Error in feedback creation from IP 127.0.0.1: Запрос был проигнорирован. Expected available in 3290 seconds.
+Error in feedback creation from IP 127.0.0.1: Запрос был проигнорирован. Expected available in 2882 seconds.
+Error in feedback creation from IP 127.0.0.1: Запрос был проигнорирован. Expected available in 2879 seconds.
+Error in feedback creation from IP 127.0.0.1: Запрос был проигнорирован. Expected available in 2878 seconds.
+Error in feedback creation from IP 127.0.0.1: Запрос был проигнорирован. Expected available in 2877 seconds.
+Error in feedback creation from IP 127.0.0.1: Запрос был проигнорирован. Expected available in 2348 seconds.
+Error in feedback creation from IP 127.0.0.1: Запрос был проигнорирован. Expected available in 2338 seconds.
+Error in feedback creation from IP 127.0.0.1: Запрос был проигнорирован. Expected available in 2330 seconds.
+Error in feedback creation from IP 127.0.0.1: Запрос был проигнорирован. Expected available in 2254 seconds.
+Error in feedback creation from IP 127.0.0.1: Запрос был проигнорирован. Expected available in 1895 seconds.
+Error in feedback creation from IP 127.0.0.1: Запрос был проигнорирован. Expected available in 1845 seconds.
+Error in feedback creation from IP 127.0.0.1: Запрос был проигнорирован. Expected available in 1511 seconds.
+Error in feedback creation from IP 127.0.0.1: Запрос был проигнорирован. Expected available in 1248 seconds.
+Feedback creation attempt from IP: 127.0.0.1, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+Feedback created successfully: ID 10, IP: 127.0.0.1
+Feedback creation attempt from IP: 127.0.0.1, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+Feedback created successfully: ID 11, IP: 127.0.0.1
+Feedback creation attempt from IP: 127.0.0.1, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+Invalid feedback data from IP 127.0.0.1: {'actor': [ErrorDetail(string='Значения unspecified нет среди допустимых вариантов.', code='invalid_choice')]}
+Feedback creation attempt from IP: 127.0.0.1, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+Invalid feedback data from IP 127.0.0.1: {'actor': [ErrorDetail(string='Значения unspecified нет среди допустимых вариантов.', code='invalid_choice')]}
+Feedback creation attempt from IP: 127.0.0.1, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+Invalid feedback data from IP 127.0.0.1: {'actor': [ErrorDetail(string='Значения unspecified нет среди допустимых вариантов.', code='invalid_choice')]}
+Error in feedback creation from IP 127.0.0.1: Запрос был проигнорирован. Expected available in 3180 seconds.
+Error in feedback creation from IP 127.0.0.1: Запрос был проигнорирован. Expected available in 3139 seconds.
+Error in feedback creation from IP 127.0.0.1: Запрос был проигнорирован. Expected available in 2704 seconds.
+Error in feedback creation from IP 127.0.0.1: Запрос был проигнорирован. Expected available in 2696 seconds.
+Error in feedback creation from IP 127.0.0.1: Запрос был проигнорирован. Expected available in 2681 seconds.
+Feedback creation attempt from IP: 127.0.0.1, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+Invalid feedback data from IP 127.0.0.1: {'actor': [ErrorDetail(string='Значения unspecified нет среди допустимых вариантов.', code='invalid_choice')]}
+Feedback creation attempt from IP: 127.0.0.1, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+Invalid feedback data from IP 127.0.0.1: {'actor': [ErrorDetail(string='Значения unspecified нет среди допустимых вариантов.', code='invalid_choice')]}
+Feedback creation attempt from IP: 127.0.0.1, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+Invalid feedback data from IP 127.0.0.1: {'actor': [ErrorDetail(string='Значения unspecified нет среди допустимых вариантов.', code='invalid_choice')]}
+Feedback creation attempt from IP: 127.0.0.1, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+Feedback created successfully: ID 12, IP: 127.0.0.1
+Feedback creation attempt from IP: 127.0.0.1, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+Feedback created successfully: ID 13, IP: 127.0.0.1
+Feedback creation attempt from IP: 127.0.0.1, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+Feedback created successfully: ID 14, IP: 127.0.0.1
